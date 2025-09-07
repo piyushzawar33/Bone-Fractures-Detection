@@ -51,6 +51,7 @@ model = YOLO("best.pt")
 
 # Run inference on an image
 results = model.predict("sample_image.jpg", save=True, imgsz=640, conf=0.25)
+```
 
 The predicted image with bounding boxes will be saved automatically.
 
