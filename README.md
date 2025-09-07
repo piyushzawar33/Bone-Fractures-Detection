@@ -1,7 +1,7 @@
 # 🦴 Bone Fracture Detection using YOLOv11m
 
-This repository contains the implementation of a **Bone Fracture Detection** model trained on the [Human Bone Fractures Image Dataset][https://www.kaggle.com/datasets/jockeroika/human-bone-fractures-image-dataset/data].  
-The project leverages the **YOLOv11m** architecture from [Ultralytics][https://www.ultralytics.com/] for object detection and localization of fractures in medical images.  
+This repository contains the implementation of a **Bone Fracture Detection** model trained on the [[Human Bone Fractures Image Dataset](https://www.kaggle.com/datasets/jockeroika/human-bone-fractures-image-dataset/data)].  
+The project leverages the **YOLOv11m** architecture from [[Ultralytics](https://www.ultralytics.com/)] for object detection and localization of fractures in medical images.  
 
 ---
 
