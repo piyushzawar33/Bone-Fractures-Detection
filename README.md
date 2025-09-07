@@ -33,12 +33,11 @@ During training, YOLOv11m optimized the following loss components:
 - **dfl_loss** → Distribution Focal Loss  
 
 Evaluation Metrics:  
-- **Precision (P)**  
-- **Recall (R)**  
-- **mAP@50**  
-- **mAP@50-95**  
-
-
+- **mAP50-95: 0.4459**
+- **mAP50: 0.8690**
+- **Precision: 0.8560**
+- **Recall: 0.8282**
+- **F1-score:0.8204**
 ---
 
 ## 🚀 Inference
@@ -59,6 +58,6 @@ The predicted image with bounding boxes will be saved automatically.
 
 This work demonstrates the feasibility of using YOLOv11m for medical image analysis, specifically for bone fracture detection.
 Future directions may include:
-  Fine-tuning with larger medical datasets
-  Incorporating explainability (Grad-CAM, attention maps)
-  Comparing YOLOv11m with transformer-based models
+- Fine-tuning with larger medical datasets
+- Incorporating explainability (Grad-CAM, attention maps)
+- Comparing YOLOv11m with transformer-based models
