@@ -6,7 +6,7 @@ The project leverages the **YOLOv11m** architecture from [[Ultralytics](https://
 ---
 
 ## 📌 Dataset
-- **Source**: [Human Bone Fractures Image Dataset][https://www.kaggle.com/datasets/jockeroika/human-bone-fractures-image-dataset/data]  
+- **Source**: [[Human Bone Fractures Image Dataset](https://www.kaggle.com/datasets/jockeroika/human-bone-fractures-image-dataset/data)]  
 - The dataset consists of multi-modal X-ray and CT images annotated with bounding boxes around fracture regions.  
 - Categories represent different types of bone fractures.  
 
